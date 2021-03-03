@@ -1,5 +1,7 @@
 # razorpay-web-sdk-integration
 
+Before starts the project please repalce your Razorpay key into the relevant place. (Inside /src/App.tsx file)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
